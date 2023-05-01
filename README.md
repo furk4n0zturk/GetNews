@@ -1,4 +1,4 @@
-# getnews
+# getnews - Get Cyber Security News
 Integrate recent posts on security blogs into slack
 
 ## What Is
